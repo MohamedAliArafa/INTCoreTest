@@ -11,5 +11,6 @@
     <color name="blueGray">#4f4e63</color>
     <color name="lightGray">#cad0cb</color>
     <color name="darkGray">#9b9b9b</color>
+    <color name="transparent">#0081cba4</color>
 
 </resources>

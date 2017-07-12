@@ -8,7 +8,7 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
-    <style name="my_toolbar" >
+    <style name="my_toolbar" parent="ThemeOverlay.AppCompat.Light">
         <item name="android:background">@drawable/toolbar_background</item>
     </style>
 
